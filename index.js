@@ -1,8 +1,8 @@
 const express = require('express');
 const app = express();
-
-app.get('/', (req,res)=>{
-    res.json({message:"hellow running"});
+const allDt = require("./data2.json");
+app.get('/allData', (req,res)=>{
+    res.send(allDt);
 });
 
 app.listen(5000,()=>{

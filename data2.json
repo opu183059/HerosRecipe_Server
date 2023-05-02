@@ -1,0 +1,199 @@
+{
+    "people": [
+      {
+        "id":445,
+        "profile_picture": "https://www.washingtonian.com/wp-content/uploads/2023/02/Chef-Andre-Rush_-Kitchen-Commando-9.jpg",
+        "name": "John Smith",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 10,
+        "likes": 500,
+        "number_of_recipes": 3,
+        "recipes": [
+            {
+              "name": "Grilled salmon with lemon butter",
+              "description": "A delicious and healthy seafood dish perfect for summer grilling.",
+              "ingredients": [
+                "4 salmon fillets",
+                "1/4 cup butter",
+                "1/4 cup lemon juice",
+                "1 tbsp chopped fresh parsley",
+                "Salt and pepper"
+              ],
+              "instructions": [
+                "Preheat grill to medium-high heat.",
+                "Season salmon fillets with salt and pepper.",
+                "In a small saucepan, melt butter over low heat.",
+                "Stir in lemon juice and chopped parsley.",
+                "Brush butter mixture over salmon fillets.",
+                "Grill salmon for 4-5 minutes per side, or until cooked through."
+              ]
+            },
+            {
+                "name": "Roasted beet and goat cheese salad",
+                "description": "A colorful and flavorful salad that's perfect for entertaining.",
+                "ingredients": [
+                  "4 medium beets",
+                  "4 cups mixed greens",
+                  "4 oz goat cheese",
+                  "1/4 cup chopped pecans",
+                  "1/4 cup balsamic vinegar",
+                  "1/4 cup olive oil",
+                  "1 tbsp Dijon mustard",
+                  "1 clove garlic, minced"
+                ],
+                "instructions": [
+                  "Preheat oven to 375°F.",
+                  "Wash and trim beets, then wrap each one in foil.",
+                  "Place wrapped beets on a baking sheet and roast in oven for 45-60 minutes, or until tender.",
+                  "Let beets cool, then peel and dice.",
+                  "In a large bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, and minced garlic.",
+                  "Add mixed greens to bowl and toss to coat in dressing.",
+                  "Divide dressed greens between four plates.",
+                  "Top with roasted beets, crumbled goat cheese, and chopped pecans."
+                ]
+              },
+              {
+                "name": "Chocolate chip cookies",
+                "description": "A classic dessert that's always a crowd-pleaser.",
+                "ingredients": [
+                  "1 cup butter, softened",
+                  "1 cup white sugar",
+                  "1 cup brown sugar",
+                  "2 eggs",
+                  "1 tsp vanilla extract",
+                  "2 1/4 cups all-purpose flour",
+                  "1 tsp baking soda",
+                  "1 tsp salt",
+                  "2 cups semisweet chocolate chips"
+                ],
+                "instructions": [
+                  "Preheat oven to 375°F.",
+                  "Cream together butter, white sugar, and brown sugar until smooth.",
+                  "Beat in eggs one at a time, then stir in vanilla extract.",
+                  "Combine flour, baking soda, and salt in a separate bowl.",
+                  "Gradually add flour mixture to butter mixture and mix well.",
+                  "Stir in chocolate chips.",
+                  "Drop spoonfuls of dough onto ungreased baking sheets.",
+                  "Bake for 8-10 minutes, or until golden brown."
+                ]
+              }
+        ]
+      },
+      {
+        "id":446,
+        "profile_picture": "https://w7.pngwing.com/pngs/728/838/png-transparent-chef-chef-s-uniform-celebrity-chef-cook-chef-kitchen-food-hat.png",
+        "name": "Bob Dilan",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 5,
+        "likes": 40,
+        "number_of_recipes": 3,
+        "recipes": [
+            {
+              "name": "Grilled salmon with lemon butter",
+              "description": "A delicious and healthy seafood dish perfect for summer grilling.",
+              "ingredients": [
+                "4 salmon fillets",
+                "1/4 cup butter",
+                "1/4 cup lemon juice",
+                "1 tbsp chopped fresh parsley",
+                "Salt and pepper"
+              ],
+              "instructions": [
+                "Preheat grill to medium-high heat.",
+                "Season salmon fillets with salt and pepper.",
+                "In a small saucepan, melt butter over low heat.",
+                "Stir in lemon juice and chopped parsley.",
+                "Brush butter mixture over salmon fillets.",
+                "Grill salmon for 4-5 minutes per side, or until cooked through."
+              ]
+            },
+            {
+                "name": "Roasted beet and goat cheese salad",
+                "description": "A colorful and flavorful salad that's perfect for entertaining.",
+                "ingredients": [
+                  "4 medium beets",
+                  "4 cups mixed greens",
+                  "4 oz goat cheese",
+                  "1/4 cup chopped pecans",
+                  "1/4 cup balsamic vinegar",
+                  "1/4 cup olive oil",
+                  "1 tbsp Dijon mustard",
+                  "1 clove garlic, minced"
+                ],
+                "instructions": [
+                  "Preheat oven to 375°F.",
+                  "Wash and trim beets, then wrap each one in foil.",
+                  "Place wrapped beets on a baking sheet and roast in oven for 45-60 minutes, or until tender.",
+                  "Let beets cool, then peel and dice.",
+                  "In a large bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, and minced garlic.",
+                  "Add mixed greens to bowl and toss to coat in dressing.",
+                  "Divide dressed greens between four plates.",
+                  "Top with roasted beets, crumbled goat cheese, and chopped pecans."
+                ]
+              },
+              {
+                "name": "Chocolate chip cookies",
+                "description": "A classic dessert that's always a crowd-pleaser.",
+                "ingredients": [
+                  "1 cup butter, softened",
+                  "1 cup white sugar",
+                  "1 cup brown sugar",
+                  "2 eggs",
+                  "1 tsp vanilla extract",
+                  "2 1/4 cups all-purpose flour",
+                  "1 tsp baking soda",
+                  "1 tsp salt",
+                  "2 cups semisweet chocolate chips"
+                ],
+                "instructions": [
+                  "Preheat oven to 375°F.",
+                  "Cream together butter, white sugar, and brown sugar until smooth.",
+                  "Beat in eggs one at a time, then stir in vanilla extract.",
+                  "Combine flour, baking soda, and salt in a separate bowl.",
+                  "Gradually add flour mixture to butter mixture and mix well.",
+                  "Stir in chocolate chips.",
+                  "Drop spoonfuls of dough onto ungreased baking sheets.",
+                  "Bake for 8-10 minutes, or until golden brown."
+                ]
+              }
+        ]
+      },
+      {
+        "id":445,
+        "profile_picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 10,
+        "likes": 500,
+        "number_of_recipes": 3
+      },
+      {
+        "id":445,
+        "profile_picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 10,
+        "likes": 500,
+        "number_of_recipes": 3
+      },
+      {
+        "id":445,
+        "profile_picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 10,
+        "likes": 500,
+        "number_of_recipes": 3
+      },
+      {
+        "id":445,
+        "profile_picture": "https://example.com/chef1.jpg",
+        "name": "John Smith",
+        "short_bio": "Award-winning chef with a passion for local ingredients and seasonal cuisine.",
+        "years_of_experience": 10,
+        "likes": 500,
+        "number_of_recipes": 3
+      }
+    ]
+  }
+  
