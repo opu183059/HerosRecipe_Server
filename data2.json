@@ -2,172 +2,219 @@
   "people": [
     {
       "id": 445,
+      "rating": { "number": 4.5, "badge": "Excellent" },
       "profile_picture": "https://www.washingtonian.com/wp-content/uploads/2023/02/Chef-Andre-Rush_-Kitchen-Commando-9.jpg",
       "name": "William Jackson",
       "short_bio": "William Jackson is a chef with a love for Southern cuisine. He has worked in restaurants all over the American South and is known for his hearty, comforting dishes. In his free time, William enjoys fishing and spending time with his dog.",
       "years_of_experience": 10,
-      "likes": 500,
-      "number_of_recipes": 3,
+      "likes": 7.8,
+      "number_of_recipes": 4,
       "recipes": [
         {
+          "id": 10024,
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
           "name": "Grilled salmon with lemon butter",
           "description": "A delicious and healthy seafood dish perfect for summer grilling.",
           "ingredients": [
-            "4 salmon fillets",
-            "1/4 cup butter",
-            "1/4 cup lemon juice",
-            "1 tbsp chopped fresh parsley",
-            "Salt and pepper"
+            "1. 4 salmon fillets",
+            "2. 1/4 cup butter",
+            "3. 1/4 cup lemon juice",
+            "4. 1 tbsp chopped fresh parsley",
+            "5. Salt and pepper"
           ],
           "instructions": [
-            "Preheat grill to medium-high heat.",
-            "Season salmon fillets with salt and pepper.",
-            "In a small saucepan, melt butter over low heat.",
-            "Stir in lemon juice and chopped parsley.",
-            "Brush butter mixture over salmon fillets.",
-            "Grill salmon for 4-5 minutes per side, or until cooked through."
+            "1. Preheat grill to medium-high heat.",
+            "2. Season salmon fillets with salt and pepper.",
+            "3. In a small saucepan, melt butter over low heat.",
+            "4. Stir in lemon juice and chopped parsley.",
+            "5. Brush butter mixture over salmon fillets.",
+            "6. Grill salmon for 4-5 minutes per side, or until cooked through."
           ]
         },
         {
+          "dish_picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F1018684-classic-tiramisu&psig=AOvVaw1Y_Z97oQrUbgOLnZDvGhai&ust=1683216729089000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDXmIvF2f4CFQAAAAAdAAAAABAJ",
+          "id": 10454,
+          "name": "Tiramisu",
+          "description": "A classic dessert made with ladyfingers, espresso, and mascarpone cheese.",
+          "ingredients": [
+            "6 egg yolks",
+            "3/4 cup granulated sugar",
+            "2/3 cup milk",
+            "1 1/4 cups heavy cream",
+            "8 ounces mascarpone cheese",
+            "1 cup strong espresso",
+            "24 ladyfingers",
+            "Unsweetened cocoa powder"
+          ],
+          "instructions": [
+            "1. In a large bowl, whisk together the egg yolks and sugar until pale and creamy.",
+            "2. In a small saucepan, heat the milk over medium heat until just simmering.",
+            "3. Gradually pour the hot milk into the egg yolk mixture, whisking constantly.",
+            "4. Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+            "5. Remove the saucepan from the heat and stir in the mascarpone cheese until smooth and creamy.",
+            "6. In a separate bowl, whip the heavy cream until stiff peaks form.",
+            "7. Gently fold the whipped cream into the mascarpone mixture until well combined.",
+            "8. Dip the ladyfingers in the espresso and layer them in the bottom of a 9x13 inch dish.",
+            "9. Spread half of the mascarpone mixture over the ladyfingers.",
+            "10. Repeat with another layer of espresso-soaked ladyfingers and the remaining mascarpone mixture.",
+            "11. Cover the dish with plastic wrap and refrigerate for at least 2 hours, or until set.",
+            "12. Before serving, sprinkle the top of the tiramisu with unsweetened cocoa powder."
+          ]
+        },
+        {
+          "dish_picture": "https://i.ibb.co/mth65xD/Roasted-beet-and-goat-cheese-salad.jpg",
+          "id": 10025,
           "name": "Roasted beet and goat cheese salad",
           "description": "A colorful and flavorful salad that's perfect for entertaining.",
           "ingredients": [
-            "4 medium beets",
-            "4 cups mixed greens",
-            "4 oz goat cheese",
-            "1/4 cup chopped pecans",
-            "1/4 cup balsamic vinegar",
-            "1/4 cup olive oil",
-            "1 tbsp Dijon mustard",
-            "1 clove garlic, minced"
+            "1. 4 medium beets",
+            "2. 4 cups mixed greens",
+            "3. 4 oz goat cheese",
+            "4. 1/4 cup chopped pecans",
+            "5. 1/4 cup balsamic vinegar",
+            "6. 1/4 cup olive oil",
+            "7. 1 tbsp Dijon mustard",
+            "8. 1 clove garlic, minced"
           ],
           "instructions": [
-            "Preheat oven to 375°F.",
-            "Wash and trim beets, then wrap each one in foil.",
-            "Place wrapped beets on a baking sheet and roast in oven for 45-60 minutes, or until tender.",
-            "Let beets cool, then peel and dice.",
-            "In a large bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, and minced garlic.",
-            "Add mixed greens to bowl and toss to coat in dressing.",
-            "Divide dressed greens between four plates.",
-            "Top with roasted beets, crumbled goat cheese, and chopped pecans."
+            "1. Preheat oven to 375°F.",
+            "2. Wash and trim beets, then wrap each one in foil.",
+            "3. Place wrapped beets on a baking sheet and roast in oven for 45-60 minutes, or until tender.",
+            "4. Let beets cool, then peel and dice.",
+            "5. In a large bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, and minced garlic.",
+            "6. Add mixed greens to bowl and toss to coat in dressing.",
+            "7. Divide dressed greens between four plates.",
+            "8. Top with roasted beets, crumbled goat cheese, and chopped pecans."
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/wdG7thP/Chocolate-chip-cookies.jpg",
+          "id": 10026,
           "name": "Chocolate chip cookies",
           "description": "A classic dessert that's always a crowd-pleaser.",
           "ingredients": [
-            "1 cup butter, softened",
-            "1 cup white sugar",
-            "1 cup brown sugar",
-            "2 eggs",
-            "1 tsp vanilla extract",
-            "2 1/4 cups all-purpose flour",
-            "1 tsp baking soda",
-            "1 tsp salt",
-            "2 cups semisweet chocolate chips"
+            "1. 1 cup butter, softened",
+            "2. 1 cup white sugar",
+            "3. 1 cup brown sugar",
+            "4. 2 eggs",
+            "5. 1 tsp vanilla extract",
+            "6. 2 1/4 cups all-purpose flour",
+            "7. 1 tsp baking soda",
+            "8. 1 tsp salt",
+            "9. 2 cups semisweet chocolate chips"
           ],
           "instructions": [
-            "Preheat oven to 375°F.",
-            "Cream together butter, white sugar, and brown sugar until smooth.",
-            "Beat in eggs one at a time, then stir in vanilla extract.",
-            "Combine flour, baking soda, and salt in a separate bowl.",
-            "Gradually add flour mixture to butter mixture and mix well.",
-            "Stir in chocolate chips.",
-            "Drop spoonfuls of dough onto ungreased baking sheets.",
-            "Bake for 8-10 minutes, or until golden brown."
+            "1. Preheat oven to 375°F.",
+            "2. Cream together butter, white sugar, and brown sugar until smooth.",
+            "3. Beat in eggs one at a time, then stir in vanilla extract.",
+            "4. Combine flour, baking soda, and salt in a separate bowl.",
+            "5. Gradually add flour mixture to butter mixture and mix well.",
+            "6. Stir in chocolate chips.",
+            "7. Drop spoonfuls of dough onto ungreased baking sheets.",
+            "8. Bake for 8-10 minutes, or until golden brown."
           ]
         }
       ]
     },
     {
       "id": 446,
+      "rating": { "number": 4.2, "badge": "Excellent" },
       "profile_picture": "https://w7.pngwing.com/pngs/728/838/png-transparent-chef-chef-s-uniform-celebrity-chef-cook-chef-kitchen-food-hat.png",
       "name": "Alexandra Smith",
       "short_bio": "Alexandra Smith is a talented chef who has been cooking for over a decade. She specializes in French cuisine and is known for her use of fresh, local ingredients. When she's not in the kitchen, Alexandra enjoys hiking and traveling.",
       "years_of_experience": 5,
-      "likes": 40,
+      "likes": 4.2,
       "number_of_recipes": 3,
       "recipes": [
         {
-          "name": "Grilled salmon with lemon butter",
-          "description": "A delicious and healthy seafood dish perfect for summer grilling.",
+          "dish_picture": "https://www.thespruceeats.com/thmb/ovIQQQxQajADuIE2lqhgqq7ppyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pasta-carbonara-recipe-5210168-hero-01-80090e56abc04ca19d88ebf7fad1d157.jpg",
+          "id": 10078,
+          "name": "Spaghetti Carbonara",
+          "description": "A classic Roman dish made with pasta, eggs, cheese, and pancetta.",
           "ingredients": [
-            "4 salmon fillets",
-            "1/4 cup butter",
-            "1/4 cup lemon juice",
-            "1 tbsp chopped fresh parsley",
-            "Salt and pepper"
+            "1 pound spaghetti",
+            "4 large eggs",
+            "1 cup grated Pecorino Romano cheese",
+            "4 ounces pancetta",
+            "Salt and freshly ground black pepper"
           ],
           "instructions": [
-            "Preheat grill to medium-high heat.",
-            "Season salmon fillets with salt and pepper.",
-            "In a small saucepan, melt butter over low heat.",
-            "Stir in lemon juice and chopped parsley.",
-            "Brush butter mixture over salmon fillets.",
-            "Grill salmon for 4-5 minutes per side, or until cooked through."
+            "1. Bring a large pot of salted water to a boil.",
+            "2. In a large bowl, whisk together the eggs and Pecorino Romano cheese.",
+            "3. Cook the spaghetti according to the package instructions until al dente.",
+            "4. While the spaghetti is cooking, heat the pancetta in a large skillet over medium heat until crispy.",
+            "5. Drain the spaghetti and add it to the skillet with the pancetta, tossing to coat the pasta with the pancetta fat.",
+            "6. Remove the skillet from the heat and add the egg mixture to the pasta, tossing quickly to coat the pasta and cook the eggs.",
+            "7. Season with salt and pepper to taste and serve immediately."
           ]
         },
         {
-          "name": "Roasted beet and goat cheese salad",
-          "description": "A colorful and flavorful salad that's perfect for entertaining.",
+          "dish_picture": "https://www.schaer.com/sites/default/files/styles/landscape_xxl/public/2923_Classic%20Margherita%20Pizza.jpg",
+          "id": 10075,
+          "name": "Margherita Pizza",
+          "description": "A classic Neapolitan pizza made with tomato sauce, mozzarella, and fresh basil.",
           "ingredients": [
-            "4 medium beets",
-            "4 cups mixed greens",
-            "4 oz goat cheese",
-            "1/4 cup chopped pecans",
-            "1/4 cup balsamic vinegar",
-            "1/4 cup olive oil",
-            "1 tbsp Dijon mustard",
-            "1 clove garlic, minced"
+            "1 pound pizza dough",
+            "1 cup tomato sauce",
+            "8 ounces fresh mozzarella cheese",
+            "1/4 cup fresh basil leaves",
+            "Salt and freshly ground black pepper"
           ],
           "instructions": [
-            "Preheat oven to 375°F.",
-            "Wash and trim beets, then wrap each one in foil.",
-            "Place wrapped beets on a baking sheet and roast in oven for 45-60 minutes, or until tender.",
-            "Let beets cool, then peel and dice.",
-            "In a large bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, and minced garlic.",
-            "Add mixed greens to bowl and toss to coat in dressing.",
-            "Divide dressed greens between four plates.",
-            "Top with roasted beets, crumbled goat cheese, and chopped pecans."
+            "1. Preheat the oven to 450°F.",
+            "2. Roll out the pizza dough on a lightly floured surface.",
+            "3. Spread the tomato sauce over the pizza dough.",
+            "4. Slice the mozzarella cheese and arrange it on top of the sauce.",
+            "5. Season with salt and pepper to taste.",
+            "6. Bake the pizza in the oven for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+            "7. Remove the pizza from the oven and sprinkle with fresh basil leaves before serving."
           ]
         },
         {
-          "name": "Chocolate chip cookies",
-          "description": "A classic dessert that's always a crowd-pleaser.",
+          "dish_picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcooking.nytimes.com%2Frecipes%2F1018684-classic-tiramisu&psig=AOvVaw1Y_Z97oQrUbgOLnZDvGhai&ust=1683216729089000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDXmIvF2f4CFQAAAAAdAAAAABAJ",
+          "id": 10454,
+          "name": "Tiramisu",
+          "description": "A classic dessert made with ladyfingers, espresso, and mascarpone cheese.",
           "ingredients": [
-            "1 cup butter, softened",
-            "1 cup white sugar",
-            "1 cup brown sugar",
-            "2 eggs",
-            "1 tsp vanilla extract",
-            "2 1/4 cups all-purpose flour",
-            "1 tsp baking soda",
-            "1 tsp salt",
-            "2 cups semisweet chocolate chips"
+            "6 egg yolks",
+            "3/4 cup granulated sugar",
+            "2/3 cup milk",
+            "1 1/4 cups heavy cream",
+            "8 ounces mascarpone cheese",
+            "1 cup strong espresso",
+            "24 ladyfingers",
+            "Unsweetened cocoa powder"
           ],
           "instructions": [
-            "Preheat oven to 375°F.",
-            "Cream together butter, white sugar, and brown sugar until smooth.",
-            "Beat in eggs one at a time, then stir in vanilla extract.",
-            "Combine flour, baking soda, and salt in a separate bowl.",
-            "Gradually add flour mixture to butter mixture and mix well.",
-            "Stir in chocolate chips.",
-            "Drop spoonfuls of dough onto ungreased baking sheets.",
-            "Bake for 8-10 minutes, or until golden brown."
+            "1. In a large bowl, whisk together the egg yolks and sugar until pale and creamy.",
+            "2. In a small saucepan, heat the milk over medium heat until just simmering.",
+            "3. Gradually pour the hot milk into the egg yolk mixture, whisking constantly.",
+            "4. Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens and coats the back of a spoon.",
+            "5. Remove the saucepan from the heat and stir in the mascarpone cheese until smooth and creamy.",
+            "6. In a separate bowl, whip the heavy cream until stiff peaks form.",
+            "7. Gently fold the whipped cream into the mascarpone mixture until well combined.",
+            "8. Dip the ladyfingers in the espresso and layer them in the bottom of a 9x13 inch dish.",
+            "9. Spread half of the mascarpone mixture over the ladyfingers.",
+            "10. Repeat with another layer of espresso-soaked ladyfingers and the remaining mascarpone mixture.",
+            "11. Cover the dish with plastic wrap and refrigerate for at least 2 hours, or until set.",
+            "12. Before serving, sprinkle the top of the tiramisu with unsweetened cocoa powder."
           ]
         }
       ]
     },
     {
       "id": 447,
+      "rating": { "number": 4.7, "badge": "Excellent" },
       "profile_picture": "https://media.istockphoto.com/id/1142230160/photo/beautiful-chef-working-in-a-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=a_e524ohK5mfy8Ef2QyeENKQHShv7z6vv-ZztCUCeCc=",
       "name": "Juana Rodriguez",
       "short_bio": "Juan Rodriguez is a chef with a passion for Mexican cuisine. He has worked in some of the best restaurants in Mexico City and has won several awards for his innovative dishes. In his free time, Juan enjoys playing soccer and listening to music.",
       "years_of_experience": 7,
-      "likes": 356,
+      "likes": 3.9,
       "number_of_recipes": 3,
       "recipes": [
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 1488,
           "name": "Grilled salmon with lemon butter",
           "description": "A delicious and healthy seafood dish perfect for summer grilling.",
           "ingredients": [
@@ -187,6 +234,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10022344,
           "name": "Roasted beet and goat cheese salad",
           "description": "A colorful and flavorful salad that's perfect for entertaining.",
           "ingredients": [
@@ -211,6 +260,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 100852,
           "name": "Chocolate chip cookies",
           "description": "A classic dessert that's always a crowd-pleaser.",
           "ingredients": [
@@ -239,14 +290,17 @@
     },
     {
       "id": 448,
+      "rating": { "number": 4.1, "badge": "Excellent" },
       "profile_picture": "https://www.betterteam.com/images/chef-de-cuisine-job-description-4000x6000-20201119.jpeg?crop=4:3,smart&width=1200&dpr=2",
       "name": "Megan Lee",
       "short_bio": "Megan Lee is a rising star in the culinary world. She has trained under some of the top chefs in New York City and has a talent for creating beautiful, Instagram-worthy dishes. In her spare time, Megan enjoys practicing yoga and exploring the city's food scene.",
       "years_of_experience": 9,
-      "likes": 651,
+      "likes": 6.5,
       "number_of_recipes": 3,
       "recipes": [
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 107414,
           "name": "Grilled salmon with lemon butter",
           "description": "A delicious and healthy seafood dish perfect for summer grilling.",
           "ingredients": [
@@ -266,6 +320,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 17894,
           "name": "Roasted beet and goat cheese salad",
           "description": "A colorful and flavorful salad that's perfect for entertaining.",
           "ingredients": [
@@ -290,6 +346,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 14562,
           "name": "Chocolate chip cookies",
           "description": "A classic dessert that's always a crowd-pleaser.",
           "ingredients": [
@@ -318,14 +376,17 @@
     },
     {
       "id": 449,
+      "rating": { "number": 4.9, "badge": "Excellent" },
       "profile_picture": "https://static01.nyt.com/newsgraphics/2019/07/08/chefs/assets/images/square_williams-320_x2.jpg",
       "name": "Antonio Gonzalez",
       "short_bio": "Antonio Gonzalez is a seasoned chef with over a decade of experience in the kitchen. He is passionate about Italian cuisine and is known for his handmade pasta dishes. When he's not cooking, Antonio enjoys spending time with his family and playing guitar.",
       "years_of_experience": 5,
-      "likes": 112,
+      "likes": 6.1,
       "number_of_recipes": 3,
       "recipes": [
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10024123,
           "name": "Grilled salmon with lemon butter",
           "description": "A delicious and healthy seafood dish perfect for summer grilling.",
           "ingredients": [
@@ -345,6 +406,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10456024,
           "name": "Roasted beet and goat cheese salad",
           "description": "A colorful and flavorful salad that's perfect for entertaining.",
           "ingredients": [
@@ -369,6 +432,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10024485,
           "name": "Chocolate chip cookies",
           "description": "A classic dessert that's always a crowd-pleaser.",
           "ingredients": [
@@ -397,14 +462,17 @@
     },
     {
       "id": 450,
+      "rating": { "number": 5, "badge": "Excellent" },
       "profile_picture": "https://static01.nyt.com/newsgraphics/2019/07/08/chefs/f8d4e8704660634640d3285fe528709603a39aae/mashama02.jpg",
       "name": "Sophie Chen",
       "short_bio": "Sophie Chen is a young chef with a fresh perspective on traditional Chinese cuisine. She has worked in some of the top restaurants in Beijing and has a passion for using seasonal ingredients in her dishes. When she's not cooking, Sophie enjoys reading and practicing calligraphy.",
       "years_of_experience": 7,
-      "likes": 523,
+      "likes": 5.3,
       "number_of_recipes": 3,
       "recipes": [
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10425024,
           "name": "Grilled salmon with lemon butter",
           "description": "A delicious and healthy seafood dish perfect for summer grilling.",
           "ingredients": [
@@ -424,6 +492,8 @@
           ]
         },
         {
+          "dish_picture": "https://i.ibb.co/ZdYSXp9/Grilled-salmon-with-lemon-butter.jpg",
+          "id": 10413024,
           "name": "Roasted beet and goat cheese salad",
           "description": "A colorful and flavorful salad that's perfect for entertaining.",
           "ingredients": [
@@ -448,28 +518,33 @@
           ]
         },
         {
-          "name": "Chocolate chip cookies",
-          "description": "A classic dessert that's always a crowd-pleaser.",
+          "dish_picture": "https://jamjarkitchen.com/wp-content/uploads/2020/08/IMG_1811.jpg",
+          "id": 1004524824,
+          "name": "Grilled Portobello Mushroom Burger",
+          "description": "A vegetarian burger made with grilled portobello mushrooms and all the fixings.",
           "ingredients": [
-            "1 cup butter, softened",
-            "1 cup white sugar",
-            "1 cup brown sugar",
-            "2 eggs",
-            "1 tsp vanilla extract",
-            "2 1/4 cups all-purpose flour",
-            "1 tsp baking soda",
-            "1 tsp salt",
-            "2 cups semisweet chocolate chips"
+            "4 large portobello mushroom caps",
+            "1/4 cup balsamic vinegar",
+            "1/4 cup olive oil",
+            "2 cloves garlic, minced",
+            "Salt and pepper to taste",
+            "4 burger buns",
+            "4 slices of cheese",
+            "4 lettuce leaves",
+            "4 slices of tomato",
+            "4 slices of red onion"
           ],
           "instructions": [
-            "Preheat oven to 375°F.",
-            "Cream together butter, white sugar, and brown sugar until smooth.",
-            "Beat in eggs one at a time, then stir in vanilla extract.",
-            "Combine flour, baking soda, and salt in a separate bowl.",
-            "Gradually add flour mixture to butter mixture and mix well.",
-            "Stir in chocolate chips.",
-            "Drop spoonfuls of dough onto ungreased baking sheets.",
-            "Bake for 8-10 minutes, or until golden brown."
+            "1. Preheat the grill to medium-high heat.",
+            "2. In a small mixing bowl, whisk together the balsamic vinegar, olive oil, and minced garlic.",
+            "3. Brush the portobello mushroom caps with the balsamic mixture and season with salt and pepper to taste.",
+            "4. Grill the mushroom caps for 4-5 minutes per side, or until tender and lightly charred.",
+            "5. Toast the burger buns on the grill for 1-2 minutes, or until lightly toasted.",
+            "6. Place a slice of cheese on each of the grilled mushroom caps.",
+            "7. Assemble the burgers by placing a lettuce leaf, a slice of tomato, and a slice of red onion on the bottom half of each toasted bun.",
+            "8. Place a grilled mushroom cap with melted cheese on top of the vegetables.",
+            "9. Top each burger with the top half of the toasted bun.",
+            "10. Serve the burgers immediately."
           ]
         }
       ]
